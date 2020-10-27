@@ -1,16 +1,22 @@
-### Hi there 👋
+[1]: https://twitter.com/cryptofyre
+[2]: https://t.me/cryptofyre
+[3]: https://discord.com/
+[4]: mailto:cryptofyre@protonmail.com
 
-<!--
-**iiFir3z/iiFir3z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello!
+Thanks for taking the time to look at my profile. Feel free to take inspriration to build your own software or profile like mine!
+### Who am I?
+I am a Software Engineer and Developer who lives near the custs of Portland, Oregon.
+### Where do I work?
+I work from home making Software and experimenting to help support others in everyday living.
+### Where can I contact you?
+Im available on many platforms!
++ Twitter: [cryptofyre][1]
++ Telegram: [cryptofyre][2]
++ Discord: [Fire.#1337][3]
++ Email: [cryptofyre@protonmail.com][4]
 
-Here are some ideas to get you started:
+![](https://img.shields.io/badge/OS-Arch_Linux-informational?style=flat&logo=Arch-Linux) ![](https://img.shields.io/badge/Kernel-5.9.1.6_tkg_MuQSS-informational?style=flat&logo=Linux) ![](https://img.shields.io/badge/Packages-1829-informational?style=flat&logo=Buffer) ![](https://img.shields.io/badge/Shell-zsh_5.8-informational?style=flat&logo=GNU-Bash)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![My's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iiFir3z&show_icons=true&theme=radical)F
