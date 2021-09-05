@@ -1,7 +1,7 @@
 [1]: https://twitter.com/cryptofyre
 [2]: https://www.reddit.com/user/notcryptofyre
 [3]: https://t.me/cryptofyre
-[4]: https://discord.com/
+[4]: https://dsc.bio/cryptofyre
 [5]: mailto:cryptofyre@protonmail.com
 
 ## Hello!
