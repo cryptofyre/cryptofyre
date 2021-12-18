@@ -2,23 +2,26 @@
 [2]: https://www.reddit.com/user/notcryptofyre
 [3]: https://t.me/cryptofyre
 [4]: https://dsc.bio/cryptofyre
-[5]: mailto:cryptofyre@protonmail.com
+[5]: mailto:cryptofyre@cryptofyre.org
+[6]: https://discord.gg/applemusic
+[7]: https://github.com/ciderapp/Cider
+[8]: https://github.com/ciderapp/Apple-Music-Electron
+[9]: https://github.com/cryptofyre/W11-Patcher
 
-## Hello!
-Thanks for taking the time to look at my profile. Feel free to take inspriration to build your own software or profile like mine!
+## Hi! 👋
+Usually people don't read these readme's but hey might as well spice it up a little. Feel free to use this on your profile just without my information obviously.
 
-### Who am I?
-I am a self taught full stack developer focused on ![Apple Music Electron](https://github.com/Apple-Music-Electron/Apple-Music-Electron) and other open source projects.
+### About Me 🤘
+I'm a software engineer based in Waco, TX. I usually work around open source projects and Apple related software and API's.
 
-### Where can I contact you?
-Im available on many platforms!
+### Current Project(s) 💻
++ **Cider** - [GitHub][7] | [Discord][6]
++ **Apple Music Electron** - [GitHub][8] | [Discord][6]
++ **W11-Patcher** - [GitHub][9]
+
+### Where can I contact you? ✉️
 + Twitter: [cryptofyre][1]
 + Reddit: [notcryptofyre][2]
 + Telegram: [cryptofyre][3]
 + Discord: [cryptofyre#0001][4]
-+ Email: [cryptofyre@protonmail.com][5]
-
-![](https://img.shields.io/badge/OS-Windows_11-informational?style=flat&logo=microsoft)
-
-
-![My's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cryptofyre&show_icons=true&theme=radical)
++ Email: [cryptofyre@cryptofyre.org][5] (**Do not send unsolicted advertisements or NFT/Web 3 advice.**)
