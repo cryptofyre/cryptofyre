@@ -16,7 +16,6 @@ I'm a software engineer based in Waco, TX. I usually work around open source pro
 
 ### Current Project(s) 💻
 + **Cider** - [GitHub][7] | [Discord][6]
-+ **Apple Music Electron** - [GitHub][8] | [Discord][6]
 + **W11-Patcher** - [GitHub][9]
 
 ### Where can I contact you? ✉️
@@ -25,3 +24,11 @@ I'm a software engineer based in Waco, TX. I usually work around open source pro
 + Telegram: [cryptofyre][3]
 + Discord: [cryptofyre#0001][4]
 + Email: [cryptofyre@cryptofyre.org][5] (**Do not send unsolicted advertisements or NFT/Web 3 advice.**)
+
+### Hardware
+* CPU: AMD Ryzen 9 5950X
+* Memory: 4 x Trident Z RGB 8GB (32GB)
+* GPU: NVIDIA Geforce GTX 1660 Super
+
+#### Validation
+[![CPU-Z](https://valid.x86.fr/cache/banner/lm2iug-6.png)](https://valid.x86.fr/lm2iug)
