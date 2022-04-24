@@ -26,9 +26,9 @@ I'm a software engineer based in Waco, TX. I usually work around open source pro
 + Email: [cryptofyre@cryptofyre.org][5] (**Do not send unsolicted advertisements or NFT/Web 3 advice.**)
 
 ### Hardware
-* CPU: AMD Ryzen 9 5950X
-* Memory: 4 x Trident Z RGB 8GB (32GB)
-* GPU: NVIDIA Geforce GTX 1660 Super
+* CPU: **AMD Ryzen 9 5950X**
+* Memory: **4 x Trident Z RGB 8GB (32GB)**
+* GPU: **NVIDIA Geforce GTX 1660 Super**
 
 #### Validation
 [![CPU-Z](https://valid.x86.fr/cache/banner/lm2iug-6.png)](https://valid.x86.fr/lm2iug)
