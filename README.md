@@ -28,7 +28,7 @@ I'm a software engineer based in Waco, TX. I usually work around open source pro
 ### Hardware
 * CPU: **AMD Ryzen 9 5950X**
 * Memory: **4 x Trident Z RGB 8GB (32GB)**
-* GPU: **NVIDIA Geforce GTX 1660 Super**
+* GPU: **NVIDIA Geforce RTX 3080 Ti (12GB)**
 
 #### Validation
-[![CPU-Z](https://valid.x86.fr/cache/banner/lm2iug-6.png)](https://valid.x86.fr/lm2iug)
+[![CPU-Z](https://valid.x86.fr/cache/banner/7x7h9v-6.png)](https://valid.x86.fr/7x7h9v)
