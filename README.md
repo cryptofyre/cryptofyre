@@ -31,4 +31,4 @@ I'm a software engineer based in Waco, TX. I usually work around open source pro
 * DAC: **FiiO BTA30PRO**
 
 #### Validation
-[![CPU-Z](https://valid.x86.fr/cache/banner/7x7h9v-6.png)](https://valid.x86.fr/7x7h9v)
+[![CPU-Z](https://valid.x86.fr/cache/banner/50ntis-6.png)](https://valid.x86.fr/50ntis)
