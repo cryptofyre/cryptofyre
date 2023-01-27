@@ -26,7 +26,7 @@ I'm a software engineer based in Waco, TX. I usually work around open source pro
 ### Hardware
 * CPU: **AMD Ryzen 9 5950X**
 * Memory: **4 x Trident Z Neo 16GB (64GB)**
-* GPU: **NVIDIA Geforce RTX 3080 Ti (12GB)**
+* GPU: **NVIDIA Geforce RTX 4090 (24GB)**
 * Headphones: **Sony WH-1000XM5**
 * DAC: **FiiO BTA30PRO**
 
