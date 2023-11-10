@@ -23,7 +23,7 @@ My expertise lies in collaborating with cross-functional teams to deliver effici
 + Email: [cryptofyre@cryptofyre.org][5] (**Do not send unsolicted advertisements or NFT/Web 3 advice.**)
 
 ### Hardware
-* CPU: **Intel Core i9-13900K**
+* CPU: **Intel Core i9-14900K**
 * Memory: **4 x Trident Z5 16GB 7200 (64GB)**
 * GPU: **NVIDIA Geforce RTX 4090 (24GB)**
 * Headphones: **Sony WH-1000XM5**
