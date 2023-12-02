@@ -30,4 +30,4 @@ My expertise lies in collaborating with cross-functional teams to deliver effici
 * DAC: **FiiO BTA30PRO**
 
 #### Validation
-[![CPU-Z](https://valid.x86.fr/cache/banner/jvng80-6.png)](https://valid.x86.fr/jvng80)
+[![CPU-Z](https://valid.x86.fr/cache/banner/rybyyf-6.png)](https://valid.x86.fr/rybyyf)
