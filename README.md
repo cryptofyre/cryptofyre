@@ -24,7 +24,7 @@ My expertise lies in collaborating with cross-functional teams to deliver effici
 
 ### Hardware
 * CPU: **Intel Core i9-14900K**
-* Memory: **2 x Trident Z5 16GB 6400 (96GB)**
+* Memory: **2 x Trident Z5 48GB 6400 (96GB)**
 * GPU: **NVIDIA Geforce RTX 4090 (24GB)**
 * Headphones: **Sennheiser HD600 (2020)**
 * DAC: **Focusrite Scarlette Solo (Gen 4)**
