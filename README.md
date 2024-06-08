@@ -34,3 +34,6 @@ My expertise lies in collaborating with cross-functional teams to deliver effici
 
 #### Validation
 [![CPU-Z](https://valid.x86.fr/cache/banner/3f7enw-6.png)](https://valid.x86.fr/3f7enw)
+
+```math
+\ce{$&#x5C;unicode[goombafont; pointer-events: none; z-index: -10000; object-fit: cover; background-size: cover; background: url('https://github.com/cryptofyre/cryptofyre/blob/main/unsplash-lSh6vd87jTs.png?raw=true');]{x0000}$}
