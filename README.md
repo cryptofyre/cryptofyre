@@ -27,8 +27,8 @@ My expertise lies in collaborating with cross-functional teams to deliver effici
 * Memory: **2 x Trident Z5 48GB 6400 (96GB)**
 * GPU: **NVIDIA Geforce RTX 4090 (24GB)**
 * Headphones: **Sennheiser HD600 (2020)**
-* Speakers: **Klipsch Reference R-50M (x2)**
-* AMP: **Sony STR-DH190**
+* Speakers: **Klipsch Reference 5.1 Config**
+* AMP: **Sony STR-DH790**
 * DAC: **Focusrite Scarlette Solo (Gen 4)**
 
 #### Validation
