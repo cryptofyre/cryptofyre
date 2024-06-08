@@ -25,6 +25,7 @@ My expertise lies in collaborating with cross-functional teams to deliver effici
 ### Hardware
 * CPU: **Intel Core i9-14900K**
 * Memory: **2 x Trident Z5 48GB 6400 (96GB)**
+* Motherboard: **ASUS ROG Maximus Z790 Formula** 
 * GPU: **NVIDIA Geforce RTX 4090 (24GB)**
 * Headphones: **Sennheiser HD600 (2020)**
 * Speakers: **Klipsch Reference 5.1 Config**
@@ -32,7 +33,7 @@ My expertise lies in collaborating with cross-functional teams to deliver effici
 * DAC: **Focusrite Scarlette Solo (Gen 4)**
 
 #### Validation
-[![CPU-Z](https://valid.x86.fr/cache/banner/rybyyf-6.png)](https://valid.x86.fr/rybyyf)
+[![CPU-Z](https://valid.x86.fr/cache/banner/3f7enw-6.png)](https://valid.x86.fr/3f7enw)
 
 ```math
 \ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -1000; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.5; background: url('https://github.com/cryptofyre/cryptofyre/blob/main/unsplash-lSh6vd87jTs.png?raw=true') no-repeat;]{x0000}$}
