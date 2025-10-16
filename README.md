@@ -1,7 +1,7 @@
 [1]: https://twitter.com/cryptofyre
 [2]: https://www.reddit.com/user/notcryptofyre
 [4]: https://dsc.bio/cryptofyre
-[5]: mailto:cryptofyre@cryptofyre.org
+[5]: mailto:cryptofyre@cryptofy.re
 [6]: https://discord.gg/applemusic
 [7]: https://github.com/ciderapp/Cider
 [8]: https://github.com/ciderapp/Apple-Music-Electron
@@ -19,18 +19,19 @@ My expertise lies in collaborating with cross-functional teams to deliver effici
 ### Where can I contact you? ✉️
 + Twitter: [cryptofyre][1]
 + Reddit: [notcryptofyre][2]
-+ Discord: [cryptofyre#0001][4]
-+ Email: [cryptofyre@cryptofyre.org][5] (**Do not send unsolicted advertisements or NFT/Web 3 advice.**)
++ Discord: [cryptofyre][4]
++ Email: [cryptofyre@cryptofy.re][5] (**Do not send unsolicted advertisements or NFT/Web 3 advice.**)
 
 ### Hardware
 * CPU: **Intel Core i9-14900K**
 * Memory: **2 x Trident Z5 48GB 6400 (96GB)**
 * Motherboard: **ASUS ROG Maximus Z790 Formula** 
 * GPU: **NVIDIA Geforce RTX 4090 (24GB)**
-* Headphones: **Sennheiser HD600 (2020)**
-* Speakers: **Klipsch Reference 5.1 Config**
-* AMP: **Sony STR-DH790**
-* DAC: **Focusrite Scarlette Solo (Gen 4)**
+* Headphones: **HiFiMan Sundara & Sennheiser HD600**
+* Speakers: **Klipsch Reference 7.1 Config**
+* AMP: **Denon AVR-S970H**
+* DAC: **FiiO K17**
+* Microphone: **Shure SM7B + Focusrite Scarlette Solo (Gen 4)**
 
 #### Validation
 [![CPU-Z](https://valid.x86.fr/cache/banner/3f7enw-6.png)](https://valid.x86.fr/3f7enw)
