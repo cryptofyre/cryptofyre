@@ -26,7 +26,7 @@ My expertise lies in collaborating with cross-functional teams to deliver effici
 * CPU: **Intel Core i9-14900K**
 * Memory: **2 x Trident Z5 48GB 6400 (96GB)**
 * Motherboard: **ASUS ROG Maximus Z790 Formula** 
-* GPU: **NVIDIA Geforce RTX 4090 (24GB)**
+* GPU: **NVIDIA Geforce RTX 5090 (24GB)**
 * Headphones: **HiFiMan Sundara & Sennheiser HD600**
 * Speakers: **Klipsch Reference 7.1 Config**
 * AMP: **Denon AVR-S970H**
